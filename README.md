@@ -1,1 +1,1 @@
-# counter_design
+# winner_loser_counter
